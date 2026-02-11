@@ -3,24 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Access Code - Offline</title>
-    <link rel="stylesheet" href="access.css">
+    <title>Demo Version</title>
 </head>
 <body>
-    <div class="wrapper">
-        <form action="">
-            <h2>Access Code</h2>
-            <div class="input-box">
-                <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
-                <input type="text" placeholder="Your Code" required>
-            </div>
-            <button type="submit">Login</button>
-            <div class="register-link">
-                <p>Don't have an account? <a href="#">Register</a></p>
-            </div>
-        </form>
-    </div>
-    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
-    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <iframe src="https://script.google.com/macros/s/AKfycbyHwwoO5tMS9KOOevHqBIfqHrpRa6sGK_VRXY5IZMmkVXf5F1NDPFW2EHKGAt-_HjLt/exec" width="100%" height="100%" allowfullscreen="true" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+    <script>
+        window.onload = function() {
+            document.querySelector('iframe').requestFullscreen().catch((err) => {
+                console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+            });
+        };
+    </script>
 </body>
 </html>
