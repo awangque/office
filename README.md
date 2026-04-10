@@ -18,6 +18,7 @@ Now I'm extending my existing concept to work better than before, which is basic
 P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
+### [See Progress]()
 
 ### Summary
 This project is a multi-tenant, SaaS-like system built entirely within the Google ecosystem.
