@@ -153,6 +153,7 @@ Username: admin | Password: adminB
 ```
 https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ```
+- Hybrid SPA architecture were chosen base on risk and complexity issue.
 - Ref: Version 94
 
 #### So what's next ?
@@ -163,7 +164,7 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ### Apr 2026
 ![version](https://img.shields.io/badge/Version-0.6.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
 #### Added
-- Sidebar Settings > Business sections updated (BizInfo & document template)
+- Business sections updated (BizInfo & document template)
 
 #### Changes
 - Optimization hybrid SPA to version 2.
