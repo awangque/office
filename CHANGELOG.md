@@ -118,11 +118,11 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 - Found how-to hide the google notification using iframe.
 - Implementing the UI properly was very challenging due to rendering timing issues since this is under Google environment.
 - Found out that the Google ecosystem only stable up to 50,000 rows of data and limited only with 200 versions of webapp.
-- Found-out that Google has 6-mins per request of execution time and daily quotas (read/write).
+- Found out that Google has 6-mins per request of execution time and daily quotas (read/write).
 - Ref: AC1.100.180
 
 #### So what's next ?
-Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but the performance reduction may soon be noticeable, so to reduce page-load latency, I’m considering migrating the project to a Single-Page Application (SPA) architecture instead.
+Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but as for performance wise, it will become slow as we scale, so to reduce page-load latency, I’m considering migrating the project to a Single-Page Application (SPA) architecture instead.
 
 ---
 ### Mac 2026
