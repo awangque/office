@@ -1,8 +1,10 @@
+# Changelog
+
 ### Dec 2025 
 ![version](https://img.shields.io/badge/version-0.1-blue) 
 
-#### Added ![version](https://img.shields.io/badge/version-0.1-blue)
-- Create 2-level authentication. ![version](https://img.shields.io/badge/version-0.1-blue)
+#### Added 
+- Create 2-level authentication.
 - Built 3 pages with basic simple layout (AccessCode, Login, Dashboard), total of 5 pages for 2 companies.
 
 #### Results & Comment
