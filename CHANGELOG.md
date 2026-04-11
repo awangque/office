@@ -167,7 +167,7 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Business sections updated (BizInfo & document template)
 
 #### Changes
-- Optimization hybrid SPA to version 2.
+- Optimization of hybrid SPA (v2).
 
 #### Results & Comment
 - Not sure yet
