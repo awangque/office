@@ -18,8 +18,9 @@ Now I'm extending my existing concept to work better than before, which is basic
 P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
-### You may access the system here > [The Changelog](CHANGELOG.md)
-### ![version](https://img.shields.io/badge/Version-0.6.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
+### You may access the system here : [The Changelog](CHANGELOG.md)
+### Project Version
+![version](https://img.shields.io/badge/Version-0.6.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
 
 ---
 
