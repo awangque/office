@@ -131,7 +131,7 @@ Although I have minimized the number of MPA page limited to only 3, that works u
 - Use temporary dummy data.
 #### Changes
 - Dashboard UI were updated again.
-- Partial SPA architecture implemented.
+- Hybrid SPA architecture implemented.
 - Both Manager and Staff dashboard were removed (temporarily).
 #### Results & Comment
 ```
@@ -146,7 +146,7 @@ Username: admin | Password: admin123
 Company B
 Username: admin | Password: adminB  
 ```
-- Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA.
+- Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA architecture.
 - The use of ID classes is important for SPA to work.
 - The security system is now become a Session-Based Authentication.
 - All references from youtube were actually limited to only single company/personal use, not multi-tenant (and majority uses Bootstrap framework). Found 1 real use with this Google ecosystem that intented to work for company system planning, dated 25/3/26.
@@ -169,8 +169,8 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Optimization hybrid SPA to version 2.
 
 #### Results & Comment
-- Ignored the mobile view version for now, forcing user to do the setting with desktop environment.
-- Ref: Offline - VScode
+- Not sure yet
+- Ref: Offline > VScode
 
 #### So what's next ?
-- Introduce business selection method.
+- Revise the dynamic system functionality.
