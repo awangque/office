@@ -125,7 +125,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but as for performance wise, it will become slow as we scale, so to reduce page-load latency, I’m considering migrating the project to a Single-Page Application (SPA) architecture instead.
 
 ---
-### Mac 2026
+### Mar 2026
 ![version](https://img.shields.io/badge/Version-0.5.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
 #### Added
 - Use temporary dummy data.
