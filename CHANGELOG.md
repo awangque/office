@@ -1,4 +1,4 @@
-# Changelog ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.x.x-red) ![stage](https://img.shields.io/badge/Working%20(Unstable)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
+# Changelog ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Unstable)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
 
 ### Dec 2025 
 ![version](https://img.shields.io/badge/Version-0.0.1-blue) ![stage](https://img.shields.io/badge/Stage-Prototype-red)
