@@ -18,7 +18,7 @@ Now I'm extending my existing concept to work better than before, which is basic
 P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
-### [See Progress / Changelog]()
+### [See Progress / Changelog](dashboard/READme.md)
 ---
 
 ### Summary
