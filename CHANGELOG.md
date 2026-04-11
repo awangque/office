@@ -67,7 +67,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 ---
 
 ### Feb 2026
-![version](https://img.shields.io/badge/Version-0.1.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow)
+![version](https://img.shields.io/badge/Version-0.3.0-blue) ![stage](https://img.shields.io/badge/Stage-Prototype-red)
 #### Added
 - New UI for all pages (AccessCode, Login and Dashboard)
 - Security measurement implemented.
