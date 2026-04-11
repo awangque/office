@@ -24,7 +24,7 @@ P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 ### Summary
 This project is a multi-tenant, SaaS-like system built entirely within the Google ecosystem.
 
-Originally developed to support my businesses use cases (2 companies), later then, it evolved into a lightweight platform capable of managing multiple companies (solo entrepreneur / small business owner), users, and role-based workflows—all powered by Google ecosystem.
+Originally developed to support my businesses use cases (2 companies), but later, it evolved into a lightweight platform capable of managing multiple companies (solo entrepreneur / small business owner), users, and role-based workflows—all powered by Google ecosystem.
 
 Now the goal has changed to provide SMEs (rather than internal company system) with a simpler, more cost-efficient alternative to traditional dashboard systems, without the overhead of maintaining complex infrastructure.
 
