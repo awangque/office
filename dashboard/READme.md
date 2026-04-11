@@ -1,3 +1,5 @@
+# PROGRESS AND THE CHANGELOG
+
 ### [0.1] - Dec 2025
 
 #### Added
