@@ -40,6 +40,20 @@ Layout inspiration derived from a public frontend tutorial. All functionality, d
 
 ---
 ### License
-This system is not publicly distributed.
+This project is not open source.
+
+The system is provided as a hosted service (SaaS).
+Users are granted permission to access and use the platform, but no rights are given to the underlying source code.
+
+✅ Permitted
+- Use the system for business operations
+-Access features based on subscription or granted access
+-Manage company data within the platform
+
+❌ Not Permitted
+-Access, copy, or distribute the source code
+-Resell or redistribute the system
+-Reverse engineer or attempt to replicate the architecture
+-Host or deploy this system independently without permission
 
 Copyright (c) 2025-2026 Awg Que
