@@ -1,4 +1,4 @@
-# Changelog ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Unstable)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
+# Changelog ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Incomplete)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
 
 ### Dec 2025 
 ![version](https://img.shields.io/badge/Version-0.0.1-blue) ![stage](https://img.shields.io/badge/Stage-Prototype-red)
@@ -63,7 +63,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 ---
 
 ### Feb 2026
-![version](https://img.shields.io/badge/Version-0.1.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
+![version](https://img.shields.io/badge/Version-0.1.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow)
 #### Added
 - New UI for all pages (AccessCode, Login and Dashboard)
 - Security measurement implemented.
@@ -126,7 +126,7 @@ Although I have minimized the number of MPA page limited to only 3, that works u
 
 ---
 ### Mar 2026
-![version](https://img.shields.io/badge/Version-0.5.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
+![version](https://img.shields.io/badge/Version-0.5.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow)
 #### Added
 - Use temporary dummy data.
 #### Changes
@@ -162,7 +162,7 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
   
 ---
 ### Apr 2026
-![version](https://img.shields.io/badge/Version-0.6.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Unstable)-yellow)
+![version](https://img.shields.io/badge/Version-0.6.0-blue) ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow)
 #### Added
 - Business sections updated (BizInfo & document template)
 
