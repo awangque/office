@@ -1,4 +1,4 @@
-### Dec 2025 ![Version](https://img.shields.io/badge/version-0.1-blue)
+### ![Version](https://img.shields.io/badge/version-0.1-blue) Dec 2025 
 
 #### Added
 - Create 2-level authentication.
