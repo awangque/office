@@ -8,7 +8,6 @@
 - Built 3 pages with basic simple layout (AccessCode, Login, Dashboard), total of 5 pages for 2 companies.
 
 #### Results & Comment
-![Alt text](1.0.jpg)
 ```
 https://script.google.com/macros/s/AKfycbw4XxoG4PIKYvRC0SKy4BdpdZYviP7XHYMfgY7n6mV2OiKf2sRWNhqBkmPNjqk0cpHr/exec
 ```
@@ -43,7 +42,6 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 
   
 #### Results & Comment
-![Alt text](1.1.jpg)
 ```
 https://script.google.com/macros/s/AKfycbyhlWivSUzh9swfkxXuJRgOIQkMnk-hlKgMhzPEw_NRu84ljBH6RHn87t734-weimg/exec
 ```
@@ -105,7 +103,6 @@ function inspectToken(token) {
 ```
 
 #### Results & Comment
-![Alt text](1.2.jpg)
 ```
 https://script.google.com/macros/s/AKfycbzi8vr_Rll2LUM9rcTLz4gpz4CZ4ER_HSRguEqzib0tYI-sBe54yF9E5kGBZF6UGd-p/exec
 ```
@@ -138,7 +135,6 @@ Although I have minimized the number of MPA page limited to only 3, that works u
 - Partial SPA architecture implemented.
 - Both Manager and Staff dashboard were removed (temporarily).
 #### Results & Comment
-![Alt text](1.3.jpg)
 ```
 https://script.google.com/macros/s/AKfycbxvDKDdZJpJcPNmxAxCM6y7IVsaxOVVzO9akvIexH4747SlerFVCaKzXZwfQscZKzYRmQ/exec
 ```
@@ -174,8 +170,6 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Optimization hybrid SPA to version 2.
 
 #### Results & Comment
-![Alt text](1.0.jpg)
-
 - Ignored the mobile view version for now, forcing user to do the setting with desktop environment.
 - Ref: Offline - VScode
 
