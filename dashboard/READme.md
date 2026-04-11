@@ -163,7 +163,9 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 
 #### Added
 - Sidebar Settings > Business sections updated (BizInfo & document template)
-- Optimization hybrid SPA to version 2.
+
+#### Changes
+- Optimizing the hybrid SPA to version 2.
 
 #### Results & Comment
 ![Alt text](1.0.jpg)
