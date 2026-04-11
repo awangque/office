@@ -1,7 +1,7 @@
 # Changelog
 
 ### Dec 2025 
-![version](https://img.shields.io/badge/version-0.1-blue) 
+![version](https://img.shields.io/badge/version-0.0.1-blue) ![stage](https://img.shields.io/badge/stage-prototype-red)
 
 #### Added 
 - Create 2-level authentication.
@@ -30,7 +30,8 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 
 ---
 
-### [0.2] - Jan 2026
+### Jan 2026
+![version](https://img.shields.io/badge/version-0.0.2-blue) ![stage](https://img.shields.io/badge/stage-prototype-red)
 #### Added
 - Logout function were introduced inside the dashboard page.
 - Module were added so admin and staff will have different dashboard view.
@@ -64,7 +65,8 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 
 ---
 
-### [0.3] - Feb 2026
+### Feb 2026
+![version](https://img.shields.io/badge/version-0.0.3-blue) ![stage](https://img.shields.io/badge/stage-working-yellow)
 #### Added
 - New UI for all pages (AccessCode, Login and Dashboard)
 - Security measurement implemented.
@@ -127,7 +129,8 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but the performance reduction may soon be noticeable, so to reduce page-load latency, I’m considering migrating the project to an Single-Page Application (SPA) architecture instead.
 
 ---
-### [0.4] - Mac 2026
+### Mac 2026
+![version](https://img.shields.io/badge/version-0.0.3-blue) ![stage](https://img.shields.io/badge/stage-working-yellow)
 #### Added
 - Use temporary dummy data.
 #### Changes
