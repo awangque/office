@@ -25,7 +25,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 - Ref: AC1.26
 
 #### So what's next ?
-- Make the website system flow smoothly.
+- Smoothen the system flow.
 
 ---
 
