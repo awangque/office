@@ -19,7 +19,7 @@ P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
 ### You may access the system here : [The Changelog](CHANGELOG.md)
-### Project Version
+### Project Current Version
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 
 ---
