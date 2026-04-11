@@ -18,7 +18,23 @@ Now I'm extending my existing concept to work better than before, which is basic
 P.S. Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
-### [See Progress On Changelog](CHANGELOG.md)
+### You may access the system here > [See Progress On Changelog](CHANGELOG.md)
+---
+
+### Current State
+
+- ✅ Multi-tenant architecture
+- ✅ Access Code onboarding
+- ✅ SPA frontend
+- ✅ Core modules (Sales, Contacts, etc.)
+- ✅ Working system (not just prototype)
+
+But still:
+
+- 🚧 UI/UX improving
+- 🚧 Features expanding
+- 🚧 Real users not fully scaled yet
+
 ---
 
 ### Summary
