@@ -38,8 +38,6 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 #### Changes
 - Initially we have 1 universal AccessCode page, and now we also made 1 universal Login page too (refactored).
 - Dashboard load different module content between admin and staff.
-- Multi dashboard layout is also allowed if needed, not everyone like similar dashboard UI.
-
   
 #### Results & Comment
 ```
@@ -55,6 +53,7 @@ Company B
 Username: admin | Password: adminB /// Username: staff1 | Password: staffB 
 ```
 - Navigation flow from AccessCode > Login > Dashboard > AccessCode (on logout) works as intended.
+- Multi dashboard layout is also allowed if needed, not everyone like similar dashboard UI.
 - Ref: AC1.64
 
 #### So what's next ?
