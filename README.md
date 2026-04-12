@@ -3,7 +3,7 @@
 - Inspired by the series How to Sell Drugs Online (Fast), I explored the idea of building a website as a way to recover from financial setbacks.
 - The system were created with pure HTML + CSS + Vanilla Javascript (no framework at all).
 - This architecture is rare and not widely documented within Google Ecosystem.
-- I call it as Project S for now...
+- I call it as Project S for now.
   
 ---
 
@@ -23,9 +23,9 @@ Now I'm extending my existing concept to work better than before, which is basic
 ### Project Current Version
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 
----
 ![preview img](assets/ProjectS.png)
 
+---
 ### Current State
 
 - ✅ Multi-tenant architecture
