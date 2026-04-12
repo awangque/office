@@ -76,3 +76,5 @@ Users are granted permission to access and use the platform, but no rights are g
 - Host or deploy this system independently without permission
 
 Copyright (c) 2025-2026 Awg Que
+
+![preview img](assets/ProjectS.png)
