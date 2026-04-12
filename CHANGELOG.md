@@ -132,7 +132,7 @@ Although I have minimized the number of MPA page limited to only 3, that works u
 ### Mar 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.5.0-blue) 
 #### Added
-- Use temporary dummy data.
+- Use temporary dummy data (hard-coded).
 #### Changes
 - Dashboard UI were updated again.
 - Hybrid SPA architecture implemented.
