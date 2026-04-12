@@ -1,4 +1,4 @@
-# MyOffice - Serverless Full Stack SaaS built on Google ecosystem
+# Serverless Full Stack SaaS built on Google ecosystem
 - Challenging life experiences motivated me to grow intellectually and become more financially aware.
 - Inspired by the series How to Sell Drugs Online (Fast), I explored the idea of building a website as a way to recover from financial setbacks.
 - The system were created with pure HTML + CSS + Vanilla Javascript (no framework at all).
