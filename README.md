@@ -15,7 +15,7 @@ I'll be using Google ecosystem as my database instead of something complex like 
 ### Evolution
 Now I'm extending my existing concept to work better than before, which is basically uncommon, that I'm forcing a non-SaaS platform to behave like a SaaS backend. (most people use as simple CRUD app / single company automation only).
 
-P.S. Progress has been slow since this is just a hobby, not a paid specific job.
+#### 🚧 Progress has been slow since this is just a hobby, not a paid specific job.
 
 ---
 ### You may access the system here : [The Changelog](CHANGELOG.md)
