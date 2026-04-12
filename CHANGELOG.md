@@ -2,7 +2,7 @@
 
 ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Incomplete)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
 
-⚠️ Developed consistently in my spare time, not rushed.
+- 🎯 Developed consistently in my spare time, not rushed.
 
 ---
 
