@@ -126,7 +126,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 - Ref: AC1.100.180
 
 #### So what's next ?
-Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but as for performance wise, it will become slow as we scale, so to reduce page-load latency, I’m considering migrating the project to a [Single-Page Application (SPA)](ANALYTICS.md) architecture instead.
+Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but as for performance wise, it will become slow as we scale, so to reduce page-load latency, I’m considering migrating the project to a Single-Page Application (SPA) architecture instead.
 
 ---
 ### Mar 2026
@@ -157,7 +157,7 @@ Username: admin | Password: adminB
 ```
 https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ```
-- Hybrid SPA architecture were chosen base on risk and complexity matters.
+- [Hybrid SPA](ANALYTICS.md) architecture were chosen base on risk and complexity matters.
 - Ref: Version 94
 
 #### So what's next ?
@@ -171,7 +171,7 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Business sections updated (BizInfo & document template)
 
 #### Changes
-- Optimization of hybrid SPA (v2).
+- Optimization of hybrid SPA (version 2).
 
 #### Results & Comment
 - Not sure yet
