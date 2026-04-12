@@ -23,6 +23,7 @@ Now I'm extending my existing concept to work better than before, which is basic
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 
 ---
+![preview img](assets/ProjectS.png)
 
 ### Current State
 
@@ -77,4 +78,4 @@ Users are granted permission to access and use the platform, but no rights are g
 
 Copyright (c) 2025-2026 Awg Que
 
-![preview img](assets/ProjectS.png)
+
