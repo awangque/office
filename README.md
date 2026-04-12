@@ -12,7 +12,7 @@ I’m building a single website that hosts two separate portals—one for each o
 Even though there is only one URL, users will see a different login page depending on which company they belong to. Once they log in (as an admin or staff), they’ll be taken to a custom dashboard where they can view and edit a shared databases specific to that company.
 
 I'll be using Google ecosystem as my database instead of something complex like SQL. My current business database were kept in Google through a webapp for years with thousand of records on it which is free and no monthly software subcription fees. 
-
+### Evolution
 Now I'm extending my existing concept to work better than before, which is basically uncommon, that I'm forcing a non-SaaS platform to behave like a SaaS backend. (most people use as simple CRUD app / single company automation only).
 
 P.S. Progress has been slow since this is just a hobby, not a paid specific job.
