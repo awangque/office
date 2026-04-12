@@ -2,7 +2,7 @@
 
 ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Incomplete)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
 
-#### 🚧 Independently developed over months during my free time, with a focus on stability rather than speed.
+#### 🚧 A solo-built project developed in my spare time, emphasizing gradual progress, continuous learning, and thoughtful iteration over speed.
 
 ---
 
