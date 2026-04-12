@@ -157,7 +157,7 @@ Username: admin | Password: adminB
 ```
 https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ```
-- Hybrid SPA architecture were chosen base on risk and complexity issue.
+- Hybrid SPA architecture were chosen base on risk and complexity matters.
 - Ref: Version 94
 
 #### So what's next ?
