@@ -99,7 +99,7 @@ function inspectToken(token) {
 Access Code : viewpoint01 (company A) / vyral02 (company B)
 
 Company A
-Username: admin | Password: admin123 /// Username: staff | Password: staff123
+Username: admin | Password: adminA /// Username: staff | Password: staff123
 
 Company B
 Username: admin | Password: adminB /// Username: staff1 | Password: staffB 
