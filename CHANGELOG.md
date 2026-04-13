@@ -128,7 +128,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 - Ref: AC1.100.180
 
 #### So what's next ?
-Right now, I'm dodging Google's 6-minute limit by using just three universal pages. It works for now, but it's going to get sluggish as we grow. I’m looking into switching to an SPA to keep the app snappy and cut down on those load times.
+The current 3-page MPA setup effectively manages Google’s execution constraints, but load times will likely increase with scale. To maintain high performance and responsiveness, I plan to transition the project to an SPA architecture.
 
 ---
 ### Mar 2026
