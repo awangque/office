@@ -124,15 +124,6 @@ The current 3-page MPA setup effectively manages Google’s execution constraint
 - Hybrid SPA architecture implemented.
 - Both Manager and Staff dashboard were removed (temporarily).
 ### Results & Comment
-```
-Access Code : viewpoint01 (company A) / vyral02 (company B)
-
-Company A
-Username: admin | Password: admin123 
-
-Company B
-Username: admin | Password: adminB  
-```
 - Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA architecture.
 - The use of ID classes is important for SPA to work.
 - The security system is now become a Session-Based Authentication.
