@@ -128,7 +128,7 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 - Ref: AC1.100.180
 
 #### So what's next ?
-Although I have minimized the number of MPA page limited to only 3, that works universally for all companies, but as for performance wise, it will become slow as we scale, so to reduce page-load latency, I’m considering migrating the project to a Single-Page Application (SPA) architecture instead.
+Right now, I'm dodging Google's 6-minute limit by using just three universal pages. It works for now, but it's going to get sluggish as we grow. I’m looking into switching to an SPA to keep the app snappy and cut down on those load times.
 
 ---
 ### Mar 2026
