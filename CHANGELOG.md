@@ -134,7 +134,7 @@ The current 3-page MPA setup effectively manages Google’s execution constraint
 ### Mar 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.5.0-blue) 
 #### Added
-- Use temporary dummy data (hard-coded).
+- Use temporary dummy data (hardcoded).
 #### Changes
 - Dashboard UI were updated again.
 - Hybrid SPA architecture implemented.
