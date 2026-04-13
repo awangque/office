@@ -1,8 +1,6 @@
 # Changelog ![stage](https://img.shields.io/badge/Idea%20|%20Prototype-0.0.x-red) ![stage](https://img.shields.io/badge/Working%20(Incomplete)-0.x.0-yellow) ![stage](https://img.shields.io/badge/Stable-x.0.0-green)
 🚧 A solo-built project developed in my spare time, emphasizing gradual progress, continuous learning, and thoughtful iteration over speed.
 
-
-
 ---
 
 ## Dec 2025 
@@ -94,9 +92,9 @@ function inspectToken(token) {
 ```
 
 ### Results & Comment
-```
-https://script.google.com/macros/s/AKfycbzi8vr_Rll2LUM9rcTLz4gpz4CZ4ER_HSRguEqzib0tYI-sBe54yF9E5kGBZF6UGd-p/exec
-```
+
+### Test it : [Project S/O v0.3.0](https://awangque.github.io/office0.3/)
+
 ```
 Access Code : viewpoint01 (company A) / vyral02 (company B)
 
@@ -126,9 +124,6 @@ The current 3-page MPA setup effectively manages Google’s execution constraint
 - Hybrid SPA architecture implemented.
 - Both Manager and Staff dashboard were removed (temporarily).
 ### Results & Comment
-```
-https://script.google.com/macros/s/AKfycbxvDKDdZJpJcPNmxAxCM6y7IVsaxOVVzO9akvIexH4747SlerFVCaKzXZwfQscZKzYRmQ/exec
-```
 ```
 Access Code : viewpoint01 (company A) / vyral02 (company B)
 
