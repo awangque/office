@@ -177,10 +177,9 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 
 #### Results & Comment
 - Not sure yet
-- Ref: Offline > VScode
 
 #### So what's next ?
-- Revise the dynamic system functionality.
+- Depends to what kind of priority problem occurs.
 
 ---
 ### May 2026
