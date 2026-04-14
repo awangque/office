@@ -145,9 +145,19 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Business sections updated (BizInfo & document template)
 
 ### Changes
-- Optimization of hybrid SPA (version 2).
+- Optimization of hybrid SPA (version 2). <- In progress (unfinish)
 
 ### Results & Comment
+### Test it : [Project S/O v0.6.0](https://awangque.github.io/office)
+```
+Access Code : viewpoint01 (company A) / vyral02 (company B)
+
+Company A
+Username: admin | Password: adminA 
+
+Company B
+Username: admin | Password: adminB 
+```
 - Not sure yet
 
 #### So what's next ?
