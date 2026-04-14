@@ -57,7 +57,7 @@ Now the goal has changed to provide SMEs (rather than just internal company syst
 ---
 
 ### Credits
-I drew layout inspiration from many frontend tutorial, but it didn't have any actual functionality. I handled the heavy lifting myself. This project was a deep dive into "vanilla" development, where I independently built out the entire backend logic and data flow to make the site actually work.
+I drew layout inspiration from many frontend tutorial, but **all of it didn't have any actual functionality**. I handled the heavy lifting myself. This project was a deep dive into "vanilla" development, where I independently built out the entire backend logic and data flow to make the site actually work.
 
 ---
 ### License
