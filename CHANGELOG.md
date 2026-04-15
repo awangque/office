@@ -145,7 +145,7 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - Business sections updated (BizInfo & document template)
 
 ### Changes
-- Optimization of hybrid SPA (version 2). <- In progress (unfinish)
+- Dummy data on dashboard (both stats and chart) were converted to be data layer SPA.
 
 ### Results & Comment
 ### Test it : [Project S/O v0.6.0](https://awangque.github.io/office)
@@ -158,10 +158,12 @@ Username: admin | Password: adminA
 Company B
 Username: admin | Password: adminB 
 ```
-- Not sure yet
+- Fully SPA-driven chart.
+- Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload)
+- Google limits were organizable to only fetch final numbers.
 
 #### So what's next ?
-- Depends to what kind of priority problem occurs.
+- Not sure yet
 
 ---
 ### May 2026
