@@ -55,8 +55,8 @@ Username: admin | Password: adminB /// Username: staff1 | Password: staffB
 ## Feb 2026
 ![stage](https://img.shields.io/badge/Stage-Prototype-red) ![version](https://img.shields.io/badge/Version-0.3.0-blue) 
 ### Added
-- New UI for all pages (AccessCode, Login and Dashboard)
-- Security measurement implemented.
+- New UI for all pages (AccessCode, Login and Dashboard).
+- Implemented custom security measures to handle multi-tenant data isolation and user authentication safely.
 ### Changes
 - Dashboard page were refactored to be universal use. (every user will have the same UI).
 - Remove all add module ideas, less hassle, keep it simple.
@@ -118,12 +118,23 @@ The current 3-page MPA setup effectively manages Google’s execution constraint
 ## Mar 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.5.0-blue) 
 ### Added
-- Use temporary dummy data (hardcoded).
+- Use a pre-configured dataset here to showcase the layout and functionality instantly.
 ### Changes
-- Dashboard UI were updated again.
-- Hybrid SPA architecture implemented.
+- Updated the dashboard UI for better performance and clarity.
+- The UI leverages a custom hybrid SPA architecture.
 - Both Manager and Staff dashboard were removed (temporarily).
 ### Results & Comment
+
+### Test it : [Project S/O v0.5.0](https://awangque.github.io/office0.5)
+```
+Access Code : viewpoint01 (company A) / vyral02 (company B)
+
+Company A
+Username: admin | Password: adminA 
+
+Company B
+Username: admin | Password: adminB 
+```
 - Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA architecture.
 - The use of ID classes is important for SPA to work.
 - The security system is now become a Session-Based Authentication.
@@ -142,28 +153,16 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ## Apr 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 ### Added
-- Business sections updated (BizInfo & document template)
+- None
 
 ### Changes
-- Dummy data on dashboard (both stats and chart) were converted to be data layer SPA.
+- SPA on data layer
 
 ### Results & Comment
-### Test it : [Project S/O v0.6.0](https://awangque.github.io/office)
-```
-Access Code : viewpoint01 (company A) / vyral02 (company B)
-
-Company A
-Username: admin | Password: adminA 
-
-Company B
-Username: admin | Password: adminB 
-```
-- Fully SPA-driven chart.
 - Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload)
-- Google limits were organizable to only fetch final numbers.
 
 #### So what's next ?
 - Not sure yet
 
 ---
-### May 2026
+
