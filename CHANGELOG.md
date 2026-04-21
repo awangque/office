@@ -156,10 +156,11 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 - None
 
 ### Changes
-- SPA on data layer
+- Like many ambitious experiments, this started in a single file. As the functionality grew, I pivoted to a structured, layered approach.
 
 ### Results & Comment
 - Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload)
+- Originally built as a single-file prototype to prove the concept, the project has now been fully modularized. I’ve decoupled the core logic into dedicated layers—separating the Router, Auth, State Management, and API integrations—to create a cleaner, more scalable architecture
 
 #### So what's next ?
 - Not sure yet
