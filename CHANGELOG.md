@@ -153,17 +153,17 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 ## Apr 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 ### Added
-- None
+- Business type selection page.
 
 ### Changes
-- Like many ambitious experiments, this started in a single file. As the functionality grew, I pivoted to a structured, layered approach.
+- Turn static sidebar into dynamic sidebar version.
 
 ### Results & Comment
-- Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload)
-- Originally built as a single-file prototype to prove the concept, the project has now been fully modularized. I’ve decoupled the core logic into dedicated layers—separating the Router, Auth, State Management, and API integrations—to create a cleaner, more scalable architecture
+- Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload) - pure vanilla js only.
+- We have a dynamic sidebar that works accordingly with the type of business.
 
 #### So what's next ?
-- Not sure yet
+- Like many ambitious experiments, this started in a single file. As the functionality grew, I'm planning to pivot as a structured layered approach.
 
 ---
 
