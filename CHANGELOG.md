@@ -138,10 +138,6 @@ Username: admin | Password: adminB
 - Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA architecture.
 - The use of ID classes is important for SPA to work.
 - The security system is now become a Session-Based Authentication.
-- All references from youtube were actually limited to only single company/personal use, not multi-tenant (and majority uses Bootstrap framework). Found 1 real use with this Google ecosystem that intented to work for company system planning, dated 25/3/26.
-```
-https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
-```
 - [Hybrid SPA](ANALYTICS.md) architecture were chosen base on risk and complexity matters.
 - Ref: Version 94
 
