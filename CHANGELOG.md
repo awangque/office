@@ -147,23 +147,25 @@ https://drive.google.com/file/d/1P4D57yFQG43TroYo79jkM2vJrFpD9MIA/view
 
 ### So what's next ?
 - Create receipt and invoice template, for Settings sidebar menu.
-- Optimizing the current hybrid SPA.
+- Refactored Hybrid SPA from UI-based only -to-> data-driven architecture too.
   
 ---
 ## Apr 2026
 ![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
 ### Added
 - Business type selection page.
+- Receipt and Invoice template samples (offline version).
 
 ### Changes
 - Turn static sidebar into dynamic sidebar version.
+- Stats and charts were migrated to a data-driven SPA.
 
 ### Results & Comment
 - Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload) - pure vanilla js only.
 - We have a dynamic sidebar that works accordingly with the type of business.
 
 #### So what's next ?
-- Like many ambitious experiments, this started in a single file. As the functionality grew, I'm planning to pivot as a structured layered approach.
+- Not very sure for now.
 
 ---
 
