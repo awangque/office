@@ -135,10 +135,10 @@ Username: admin | Password: adminA
 Company B
 Username: admin | Password: adminB 
 ```
-- Encounter countless blank page errors while transitioning to SPA compared to plug-and-play MPA architecture.
-- The use of ID classes is important for SPA to work.
+- Encounter countless page errors while transitioning to SPA compared to plug-and-play MPA architecture.
+- The use of scope CSS is important for SPA to run smoothly.
 - The security system is now become a Session-Based Authentication.
-- [Hybrid SPA](ANALYTICS.md) architecture were chosen base on risk and complexity matters.
+- [Hybrid SPA](ANALYTICS.md) architecture were chosen specificly for this constrained Google environment.
 - Ref: Version 94
 
 ### So what's next ?
@@ -153,12 +153,12 @@ Username: admin | Password: adminB
 - Receipt and Invoice template samples (offline version).
 
 ### Changes
-- Turn static sidebar into dynamic sidebar version.
+- Refactored the state management.
 - Stats and charts were migrated to a data-driven SPA.
 
 ### Results & Comment
-- Zero dependency towards external library (no chart.js / no ApexCharts / no extra payload) - pure vanilla js only.
-- We have a dynamic sidebar that works accordingly with the type of business.
+- Vanilla chart JS version were replaced with chart.js library (need a faster progress).
+- Testing production grade phase of data.
 
 #### So what's next ?
 - Not very sure for now.
