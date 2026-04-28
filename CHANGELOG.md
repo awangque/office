@@ -138,7 +138,7 @@ Username: admin | Password: adminB
 - Encounter countless page errors while transitioning to SPA compared to plug-and-play MPA architecture.
 - The use of scope CSS is important for SPA to run smoothly.
 - The security system is now become a Session-Based Authentication.
-- [Hybrid SPA](ANALYTICS.md) architecture were chosen specificly for this constrained Google environment.
+- Selected a [hybrid SPA](ANALYTICS.md) approach to ensure seamless functionality within a Google-based infrastructure.
 - Ref: Version 94
 
 ### So what's next ?
