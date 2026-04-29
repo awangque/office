@@ -157,8 +157,8 @@ Username: admin | Password: adminB
 - Stats and charts were migrated to a data-driven SPA.
 
 ### Results & Comment
-- Vanilla chart JS version were replaced with chart.js library (need a faster progress).
-- Testing production grade phase of data.
+- Vanilla JS chart version were replaced with chart.js library (need a faster progress).
+- Testing production phase of data.
 
 #### So what's next ?
 - Not very sure for now.
