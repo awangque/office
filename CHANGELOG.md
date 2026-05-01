@@ -147,7 +147,7 @@ Username: admin | Password: adminB
   
 ---
 ## Apr 2026
-![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
+![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.5.5-blue) 
 ### Added
 - Business type selection page.
 - Receipt and Invoice template samples (offline version).
@@ -158,10 +158,22 @@ Username: admin | Password: adminB
 
 ### Results & Comment
 - Vanilla JS chart version were replaced with chart.js library (need a faster progress).
-- Testing production phase of data.
+- The system sounds like a hybrid SPA with fragmented loaders (meaning different part might be loading content slightly in different way @ that is where the bugs comes in).
 
-#### So what's next ?
-- Not very sure for now.
+### So what's next ?
+**Current Problem**
+- The loader logic is mixed everywhere @ currently has multiple entry points = race conditions (hay-wire state).
+- The lifecycle control partially done.
+- Module initialization is unstable.
+- Dashboard loader is not centralized - with 3 different places.
+  
+**Target solution** : Single Unified Dashboard Loader
 
 ---
+## May 2026
+![stage](https://img.shields.io/badge/Stage-Working%20(Incomplete)-yellow) ![version](https://img.shields.io/badge/Version-0.6.0-blue) 
+### Added
+- Single unified loader.
+- 
 
+---
